@@ -1,3 +1,3 @@
 # auto_tests
 
-test
+Автоматизация тестирования с помощью Selenium и Python
